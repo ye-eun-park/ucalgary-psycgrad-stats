@@ -1,2 +1,2 @@
 # ucalgary-psycgrad-stats
-University of Calgary Statistics course for Psychology graduate students
+Statistics course for Psychology graduate students at University of Calgary 
